@@ -1,4 +1,3 @@
-![Site NFT Responsivo](https://ibb.co/3ScWjsQ)
 
 # Site NFT Responsivo
 
