@@ -1,4 +1,4 @@
-![Site NFT Responsivo](https://www.bing.com/images/create/loja-de-nft/1-65c932240e0b4e5aa8809276768dc13e?id=x4eD8%2b1u96Wn9i6n%2f1vAsg%3d%3d&view=detailv2&idpp=genimg&thId=OIG4.i.Uk7eqq_zQpf1dZpXbF&FORM=GCRIDP&mode=overlay)
+![Site NFT Responsivo](https://ibb.co/3ScWjsQ)
 
 # Site NFT Responsivo
 
