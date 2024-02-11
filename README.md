@@ -36,5 +36,6 @@ Este projeto está licenciado sob a [MIT License](LICENSE). Sinta-se livre para 
 
 Para mais informações ou dúvidas sobre o projeto, entre em contato com o mantenedor principal:
 
-Nome: Matheus Silva
+Nome: Matheus Silva  
 Email: matheus@cdevs.tech
+
