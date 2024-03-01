@@ -1,7 +1,7 @@
 
 # Site NFT Responsivo
 
-Este é o repositório do projeto "Site NFT Responsivo", onde desenvolvemos um site responsivo para exibir coleções de NFTs (tokens não fungíveis).
+📂Este é um projeto educacional de um site responsivo
 
 ## Descrição
 
